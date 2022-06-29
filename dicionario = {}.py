@@ -1,0 +1,2 @@
+dicionario = {}
+pritn (type(dicionario))

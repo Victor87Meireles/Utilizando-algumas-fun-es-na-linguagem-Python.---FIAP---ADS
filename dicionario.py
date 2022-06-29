@@ -1,0 +1,3 @@
+dicionario = {}
+
+print (type(dicionario))
